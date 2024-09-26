@@ -1,3 +1,4 @@
+-- Active: 1725263259842@@127.0.0.1@3306@libreria_app
 ---
 ---
 ## -- Nombre base de datos: `libreria_app`;
